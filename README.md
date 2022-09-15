@@ -203,13 +203,13 @@ print(le.inverse_transform(x_single_prediction))
 ![](https://github.com/21005291/nn-classification/blob/main/deep.png)
 
 ## OUTPUT
-![](
+![](https://github.com/21005291/nn-classification/blob/main/noew.png)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![](
+![](https://github.com/21005291/nn-classification/blob/main/Screenshot%202022-09-15%20122345.png)
 
 ### Classification Report
-![](
+![](https://github.com/21005291/nn-classification/blob/main/Screenshot%202022-09-15%20122403.png)
 
 ### Confusion Matrix
 
