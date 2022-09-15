@@ -35,7 +35,8 @@ import pickle
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import Dropout
 from tensorflow.keras.layers import BatchNormalization
-import tensorflow as tf
+ 
+ import tensorflow as tf
 import seaborn as sns
 from tensorflow.keras.callbacks import EarlyStopping
 from sklearn.preprocessing import MinMaxScaler
