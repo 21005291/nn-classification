@@ -215,6 +215,8 @@ print(le.inverse_transform(x_single_prediction))
 
 ### New Sample Data Prediction
 
-![](
+![](https://github.com/21005291/nn-classification/blob/main/Screenshot%202022-09-15%20122418.png)
 
 ## RESULT
+
+Thus a Neural Network Classification Model is developed and executed successfully
