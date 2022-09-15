@@ -201,28 +201,23 @@ print(le.inverse_transform(x_single_prediction))
 ## Dataset Information
 
 ![](https://github.com/21005291/nn-classification/blob/main/deep.png)
-![](https://github.com/21005291/nn-classification/blob/main/Screenshot%202022-09-15%20122326.png)
-![](
-![](
-![](
 
 ## OUTPUT
+![](
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
+![](
 
 ### Classification Report
-
-Include Classification Report here
+![](
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![](
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![](
 
 ## RESULT
