@@ -26,6 +26,7 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
