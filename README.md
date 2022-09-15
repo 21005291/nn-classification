@@ -27,24 +27,40 @@ Write your own steps
 
 ## PROGRAM
 
-import pandas as pd
+import pandas as pd 
+
 from sklearn.model_selection import train_test_split
+
 from tensorflow.keras.models import Sequential
+
 from tensorflow.keras.models import load_model
+
 import pickle
+
 from tensorflow.keras.layers import Dense
+
 from tensorflow.keras.layers import Dropout
+
 from tensorflow.keras.layers import BatchNormalization
  
  import tensorflow as tf
+ 
 import seaborn as sns
+
 from tensorflow.keras.callbacks import EarlyStopping
+
 from sklearn.preprocessing import MinMaxScaler
+
 from sklearn.preprocessing import LabelEncoder
+
 from sklearn.preprocessing import OneHotEncoder
+
 from sklearn.preprocessing import OrdinalEncoder
+
 from sklearn.metrics import classification_report,confusion_matrix
+
 import numpy as np
+
 import matplotlib.pylab as plt
 
 df = pd.read_csv('customers.csv')
