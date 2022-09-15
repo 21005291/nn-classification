@@ -200,7 +200,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-(https://github.com/21005291/nn-classification/blob/main/deep.png)
+!(https://github.com/21005291/nn-classification/blob/main/deep.png)
 
 ## OUTPUT
 
